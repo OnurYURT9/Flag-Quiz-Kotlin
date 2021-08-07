@@ -1,4 +1,4 @@
-package com.example.bayrakquiz2
+package com.info.sqlitekullanimihazirveritabani
 
 import android.content.Context
 import android.database.SQLException
@@ -150,9 +150,8 @@ class DatabaseCopyHelper
 
     companion object {
 
-        private val DB_NAME = "bayrakquiz.sqlite"
+        private val DB_NAME = "filmler.sqlite"
     }
     //return cursor
 
 }
-
